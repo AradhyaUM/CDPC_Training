@@ -10,6 +10,7 @@ This file tracks my daily coding practice and problem-solving journey during the
 - Learn algorithms (sliding window, prefix sum).
 - Build consistency with daily coding.
 - Strengthen understanding of time and space complexity.
+- Transition into **Python Intermediate Level** (functions, modules).
 
 ---
 
@@ -56,15 +57,16 @@ This file tracks my daily coding practice and problem-solving journey during the
   - Find Minimum and Maximum in Array
   - Remove Duplicates from Unsorted Array
   - Pattern Printing with Skip (using continue)
-  - Alternate Negative and Positive Arrangement in array
+  - Alternate Negative and Positive Arrangement
 - Learned:
   - `continue` and `break` statements
   - Taking multiple inputs at once using `map`, `split`, `eval`
-  - More about time complexity in array operations
 - Next: Prefix sum problems and sliding window techniques.
 
+---
 ---
 
 ## Progress Summary
 - Total problems solved: 30+
-- Need more practice: arrays (advanced), sliding window, prefix sum
+- Strong in: conditionals, loops, number problems, basic arrays
+- Transitioning to: intermediate Python (functions)
