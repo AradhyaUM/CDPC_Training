@@ -1,6 +1,6 @@
-# Daily Progress Tracker
+# 10-Day CDPC Training Session by Ashish Gadpayle Sir (March 9 to March 18, 2026)
 
-This file tracks my daily coding practice and problem-solving journey.
+This file tracks my daily coding practice and problem-solving journey during the CDPC training program.
 
 ---
 
@@ -9,6 +9,7 @@ This file tracks my daily coding practice and problem-solving journey.
 - Solve logic problems (arrays, strings, math).
 - Learn algorithms (sliding window, prefix sum).
 - Build consistency with daily coding.
+- Strengthen understanding of time and space complexity.
 
 ---
 
@@ -16,18 +17,18 @@ This file tracks my daily coding practice and problem-solving journey.
 
 ### Day 1 (March 9, 2026)
 - Learned basics of Python (input/output, conditionals, loops).
-- Studied **time and space complexity** from good (O(1), O(log n)) to worse (O(n²), O(2^n)).
+- Studied **time and space complexity** from efficient (O(1), O(log n)) to less efficient (O(n²), O(2^n)).
 - Next: Practice loops with printing sequences.
 
 ---
 
 ### Day 2 (March 10, 2026)
 - Solved basic Python problems:
-- Addition
-- Reversing a number
-- Armstrong number check
-- Total digit count of each digit
-- Peterson number
+  - Addition
+  - Reversing a number
+  - Armstrong number check
+  - Total digit count
+  - Peterson number
 - Learned: modulus operator, digit manipulation.
 - Next: Palindrome and more number theory problems.
 
@@ -35,8 +36,8 @@ This file tracks my daily coding practice and problem-solving journey.
 
 ### Day 3 (March 11, 2026)
 - Practiced patterns:
-- Number pyramids
-- Star patterns
+  - Number pyramids
+  - Star patterns
 - Learned: nested loops, formatting output.
 - Next: Arrays and string manipulation.
 
@@ -49,7 +50,21 @@ This file tracks my daily coding practice and problem-solving journey.
 
 ---
 
+### Day 5 (March 13, 2026)
+- Solved algorithm-based problems:
+  - Simple Array Sum
+  - Find Minimum and Maximum in Array
+  - Remove Duplicates from Unsorted Array
+  - Pattern Printing with Skip (using continue)
+  - Alternate Negative and Positive Arrangement in array
+- Learned:
+  - `continue` and `break` statements
+  - Taking multiple inputs at once using `map`, `split`, `eval`
+  - More about time complexity in array operations
+- Next: Prefix sum problems and sliding window techniques.
+
+---
+
 ## Progress Summary
-- Total problems solved: 25+
-- Strong in: conditionals, loops, number problems
-- Need more practice: arrays, sliding window, prefix sum
+- Total problems solved: 30+
+- Need more practice: arrays (advanced), sliding window, prefix sum
