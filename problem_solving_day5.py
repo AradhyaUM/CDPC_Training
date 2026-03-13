@@ -53,7 +53,7 @@ for i in range(1,n+1):
     print(i , i+a)
     a-=2
 
-#alternate positive negative
+#alternate negative positive
 n = int(input("Enter the number of Elements: "))
 a = []
 for i in range(n):
@@ -82,6 +82,7 @@ while j < len(pos):
     j += 1
 print(b)
     
+
 
 
     
